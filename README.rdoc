@@ -1,4 +1,4 @@
 == README
 
-Check out http://chads.website -- soon to be HTTPS!
+Check out https://chads.website.
 
